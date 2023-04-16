@@ -1,0 +1,1 @@
+# seminarium_magisterkie
