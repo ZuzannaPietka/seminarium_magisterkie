@@ -1,1 +1,1 @@
-# seminarium_magisterkie
+# GAN Picasso
